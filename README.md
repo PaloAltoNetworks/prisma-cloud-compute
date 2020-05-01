@@ -1,4 +1,4 @@
-# prisma-cloud-compute
+# Prisma Cloud Compute
 
 ## Documentation
 
